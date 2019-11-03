@@ -1,0 +1,16 @@
+.image-container {
+    padding: 0px;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border: 5px rgb(89, 89, 89) solid;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 15px;
+    text-align: center;
+    box-shadow: 0px 0px 5px rgb(234, 255, 159);
+}
+
+.ind-img {
+    width: 200px;
+}

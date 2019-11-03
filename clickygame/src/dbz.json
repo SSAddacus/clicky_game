@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name":"goku",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/5/5b/Gokusteppingoutofaspaceship.jpg/revision/latest?cb=20150325220848"
+    },{
+        "id": 2,
+        "name":"vegeta",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/2/25/Vegeta_DBZ_Ep_222_002.png/revision/latest?cb=20170921025547"
+    },{
+        "id": 3,
+        "name":"gohan",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/d/d9/Ultimate_Gohan_full.png/revision/latest?cb=20191004025226"
+    }
+]
