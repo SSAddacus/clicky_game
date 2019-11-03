@@ -11,5 +11,70 @@
         "id": 3,
         "name":"gohan",
         "img":"https://vignette.wikia.nocookie.net/dragonball/images/d/d9/Ultimate_Gohan_full.png/revision/latest?cb=20191004025226"
+    },{
+        "id": 4,
+        "name": "goten",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/2/29/GotenNV.png/revision/latest?cb=20100513083315"
+
+    },{
+        "id": 5,
+        "name": "trunks",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/3/37/Trunks_DBZ_Ep_213_001.png/revision/latest?cb=20170919042310"
+
+    },{
+        "id": 6,
+        "name": "gotenks",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/d/d6/GotenksNV.png/revision/latest?cb=20120724084216"
+
+    },{
+        "id": 7,
+        "name": "vegito",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/3/3e/VegitoDBZEp268.png/revision/latest?cb=20101018162914"
+
+    },{
+        "id": 8,
+        "name": "gogeta",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/7/7b/Gogeta_Base_Full.jpg/revision/latest?cb=20191027075547"
+
+    },{
+        "id":  9,
+        "name": "broly",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/5/50/Broly_post_battle.png/revision/latest?cb=20191008122307"
+
+    },{
+        "id": 10,
+        "name": "frieza",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/8/83/Frieza_DBZ_Ep_85_002v2.png/revision/latest?cb=20170920193805"
+
+    },{
+        "id": 11,
+        "name": "cell",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/b/b4/Cell_DBZ_Ep_177_001.png/revision/latest?cb=20170921030318"
+
+    },{
+        "id": 12,
+        "name": "kidbuu",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/e/ef/Majin_Buu_DBZ_Ep_277_001.png/revision/latest?cb=20180121183349"
+
+    },{
+        "id": 13,
+        "name": "fatbuu",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/4/47/Good_Buu.png/revision/latest?cb=20170224202329"
+
+    },{
+        "id": 14,
+        "name": "cooler",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/2/24/Cooler%27s_final_form.jpg/revision/latest?cb=20090604212500"
+
+    },{
+        "id": 15,
+        "name": "trunks(future)",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/c/c8/Trunks_DBZ_Ep_131_001.png/revision/latest?cb=20170919141446"
+
+    },{
+        "id": 16,
+        "name": "shenron",
+        "img":"https://vignette.wikia.nocookie.net/dragonball/images/3/3f/Shen_Long.jpg/revision/latest?cb=20120224232858"
+
     }
 ]
