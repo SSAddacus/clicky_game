@@ -6,7 +6,7 @@ class Header extends React.Component {
     render(){
         return(
             <div className='header'>
-                <div id='home'>CLICKY GAME</div>
+                <div id='home'>Click The Fighter</div>
                 <div id='score'>
                     <p>Score: {this.props.score}</p>
                     <p id='hs'>High Score: {this.props.hScore}</p>
